@@ -16,7 +16,6 @@ models/best_model.pkl
 data/
 
 # Log ve debug dosyaları
-*.txt
 *.log
 
 # IDE
